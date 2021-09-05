@@ -3,7 +3,7 @@ This is a simple game which asks players to guess a previously selected random n
 
 ## How to play the game
 
-1. The player starts the game by typing a number between 1 and 20 in the box shown below. Then he presses the 'Check' button.
+1. The player starts the game by typing a number between 1 and 20 in the box present in the bottom left of the screen. Then he presses the 'Check' button.
 
 ![image](https://user-images.githubusercontent.com/48560818/132135081-c2bbbc5f-0cf7-4257-a72a-4a842af89c80.png)
 
