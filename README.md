@@ -1,5 +1,5 @@
 # Guess-the-number-game
-This is a simple game which asks players to guess a previously selected random number. The project utilizes JavaScript, HTML and CSS, and was created as a part of this <a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy Javascript course</a>.
+This is a simple game, which asks a player to guess a previously selected random number. The project utilizes JavaScript, HTML and CSS, and was created as a part of this <a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy Javascript course</a>.
 
 ## How to play the game
 
