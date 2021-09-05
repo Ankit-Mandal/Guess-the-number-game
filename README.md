@@ -1,7 +1,7 @@
 # Guess-the-number-game
 This is a simple game, which asks a player to guess a previously selected random number. The project utilizes JavaScript, HTML and CSS, and was created as a part of this <a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy Javascript course</a>.
 
-## How to play the game
+### How to play the game
 
 1. The player starts the game by typing a number between 1 and 20, in the box present in the bottom left of the screen. Then he presses the 'Check!' button.
 
